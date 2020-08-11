@@ -1,5 +1,5 @@
 # Pill Reminder Project
-Objective The objective of this project was to create a pill reminder and scheduler. Using OLED and UART functions, the user can upload a pill reminder schedule and once reminder mode is selected, the device displays the time, which runs at 1000 times normal and count down to the next time the patient must take a pill. If a pill was missed, all the LEDs flash 10 times and the OLED will display which pill was missed. 
+The objective of this project was to create a pill reminder and scheduler. Using OLED and UART functions, the user can upload a pill reminder schedule and once reminder mode is selected, the device displays the time, which runs at 1000 times normal and count down to the next time the patient must take a pill. If a pill was missed, all the LEDs flash 10 times and the OLED will display which pill was missed. 
 
 ## Materials
 * MCU:  Chipkit PIC32 microcontroller and shield
